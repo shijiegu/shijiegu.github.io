@@ -29,6 +29,7 @@ url: "https://shijiegu.github.io" # the base hostname & protocol for your site, 
 twitter_username: jekyllrb
 github_username:  shijiegu
 port: 4001
+paginate: 5
 
 # Build settings
 theme: minimal-mistakes-jekyll
