@@ -287,6 +287,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (= 215)
+  jekyll-include-cache
   minimal-mistakes-jekyll
   racc (~> 1.4.0)
   unf_ext (~> 0.0.7)
