@@ -1,5 +1,5 @@
 layout: page
 title: "Front"
-permalink: https://shijiegu.github.io/about/contact
+permalink: /about/contact
 
 email: shijiegu AT berkeley.edu
