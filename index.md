@@ -6,7 +6,7 @@ date: 2021-12-08
 header:
   overlay_color: "#000"
   overlay_filter: "0.1"
-  overlay_image: /assets/images/Shijie.jpg
+  overlay_image: /assets/images/Shijiebluebear.jpeg
   actions:
     - label: "Soundcloud"
       url: "https://soundcloud.com/lfpband"
@@ -36,7 +36,7 @@ feature_row:
     alt: "lab"
     title: "lab"
     excerpt: "Research in Neuroscience"
-    url: "/jekyll/update/2024/07/19/ripple1.html"
+    url: "/jekyll/update/2024/07/19/ripple.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/IMG_1869.jpeg
