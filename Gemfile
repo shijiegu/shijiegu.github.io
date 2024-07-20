@@ -40,3 +40,6 @@ gem "unf_ext", "~> 0.0.7"
 gem "webrick", "~> 1.7"
 
 gem "minimal-mistakes-jekyll"
+
+gems:
+- jekyll-seo-tag
