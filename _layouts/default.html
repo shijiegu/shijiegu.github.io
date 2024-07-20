@@ -1,29 +1,53 @@
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+---
+title: "Shijie Gu"
+permalink: /
+layout: splash
+date: 2021-12-08
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.1"
+  overlay_image: /assets/images/sandler.jpeg
+  actions:
+    - label: "My github"
+      url: "https://github.com/shijiegu/"
+  caption: "Sandler Neuroscience Building, UCSF"
+excerpt: "where I spent a lot of time"
+intro:
+  - excerpt: 'Here I tell you a little bit about some randomness at San Francisco Bay Area.'
+feature_row:
+  - image_path: /assets/images/IMG_1993.jpeg
+    alt: "Duboce Park"
+    title: "Duboce Park Stories"
+    excerpt: "Some utterly random events around Duboce Park"
+    url: /jekyll/update/2021/12/07/duboce.html
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/CDpictures.jpeg
+    image_caption: "hand-made screenprinted CD booklets"
+    alt: "music"
+    title: "music"
+    excerpt: "Original music that I write while living in San Francisco."
+    url: "/jekyll/update/2024/07/21/woolenblanket.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/IMG_1869.jpeg
+    image_caption: "Cooking adventures featuring large quantity"
+    alt: "food"
+    title: "food"
+    excerpt: "Some recipes that will benefit hungry grad students."
+  - image_path: /assets/images/ripple.jpeg
+    alt: "lab"
+    title: "lab"
+    excerpt: "Research in Neuroscience"
 
-{% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    {% include index.html %}
-  </head>
-  <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      {% if site.title and site.title != page.title %}
-      <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
-      {% endif %}
+---
 
-      {{ content }}
+{% include feature_row id="intro" type="center" %}
 
-      {% if site.github.private != true and site.github.license %}
-      <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
-        This site is open source. {% github_edit_link "Improve this page" %}.
-      </div>
-      {% endif %}
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-  </body>
-</html>
+{% include feature_row %}
+
+{% include feature_row id="feature_row2" type="left" %}
+
+{% include feature_row id="feature_row3" type="right" %}
+
+{% include feature_row id="feature_row4" type="center" %}
