@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /jekyll/update/2024/07/19/woolenblanket.html
+permalink: /jekyll/update/2024/07/19/research.html
 title:  "Wrapped in a woolen blanket, starlight."
 date:   2024-07-19
 categories: lab

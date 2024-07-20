@@ -27,18 +27,20 @@ feature_row:
     alt: "music"
     title: "music"
     excerpt: "Original music that I write while living in San Francisco."
-    url: "/jekyll/update/2024/07/21/woolenblanket.html"
+    url: "/jekyll/update/2024/07/20/woolenblanket.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
+  - image_path: /assets/images/ripple.jpeg
+    alt: "lab"
+    title: "lab"
+    excerpt: "Research in Neuroscience"
+    url: "/jekyll/update/2024/07/19/ripple1.html"
+    btn_label: "Read More"
   - image_path: /assets/images/IMG_1869.jpeg
     image_caption: "Cooking adventures featuring large quantity"
     alt: "food"
     title: "food"
     excerpt: "Some recipes that will benefit hungry grad students."
-  - image_path: /assets/images/ripple.jpeg
-    alt: "lab"
-    title: "lab"
-    excerpt: "Research in Neuroscience"
 
 ---
 
