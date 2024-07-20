@@ -1,0 +1,12 @@
+---
+layout: single
+permalink: /jekyll/update/2024/07/21/woolenblanket.html
+title:  "Wrapped in a woolen blanket, starlight."
+date:   2024-07-21
+categories: music
+order: 1
+---
+Jul 21, 2024
+
+Souvineir CD for our front-deck concert
+

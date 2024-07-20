@@ -4,6 +4,7 @@ permalink: /jekyll/update/2021/12/07/duboce.html
 title:  "Welcome to Duboce!"
 date:   2021-12-07
 categories: Duboce Park
+order: 1
 ---
 Dec 7, 2021
 
