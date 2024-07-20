@@ -6,14 +6,16 @@ date: 2021-12-08
 header:
   overlay_color: "#000"
   overlay_filter: "0.1"
-  overlay_image: /assets/images/sandler.jpeg
+  overlay_image: /assets/images/Shijie.jpg
   actions:
+    - label: "Soundcloud"
+      url: "https://soundcloud.com/lfpband"
     - label: "My github"
       url: "https://github.com/shijiegu/"
-  caption: "Sandler Neuroscience Building, UCSF"
-excerpt: "where I spent a lot of time"
+  caption: "image by Bob Hsiang"
+excerpt: "October, 2023"
 intro:
-  - excerpt: 'Here I tell you a little bit about some randomness at San Francisco Bay Area.'
+  - excerpt: 'I love the fog here.'
 feature_row:
   - image_path: /assets/images/IMG_1993.jpeg
     alt: "Duboce Park"
@@ -36,6 +38,7 @@ feature_row:
     excerpt: "Research in Neuroscience"
     url: "/jekyll/update/2024/07/19/ripple1.html"
     btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/IMG_1869.jpeg
     image_caption: "Cooking adventures featuring large quantity"
     alt: "food"
