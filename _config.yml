@@ -64,5 +64,4 @@ include:
 gems:
 - jekyll-seo-tag
 
-repository:
-- shijiegu/shijiegu.github.io
+repository: shijiegu/shijiegu.github.io
