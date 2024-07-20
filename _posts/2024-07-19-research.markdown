@@ -1,0 +1,16 @@
+---
+layout: single
+permalink: /jekyll/update/2024/07/19/woolenblanket.html
+title:  "Wrapped in a woolen blanket, starlight."
+date:   2024-07-19
+categories: lab
+order: 1
+---
+Jul 19, 2024
+
+The brain carries out many different tasks; there are countless number of cells (neurons and neuron maintainence cells), cell types in various brain regions. However, if you take a cross section of the brain and stain them to locate cells; you'd see a couple dense strips. These dense strips of cells lie in the brain region hippocampus. Not only do hippocampus have a striking dense collection of cells, the region is central to memory, navigation, and relational thinking. I study the main output part of the hippocampus.
+
+The front picture what the activities in the CA1 region of the hippocampus look like when a lot of cells fire around the same time --- talking about 10s of ms. These strong deflections are thought to be the key driver for memory consolidation.
+
+How far are we to understand this? We know a lot and very little at the same time. Stay tuned.
+
