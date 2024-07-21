@@ -8,19 +8,15 @@ order: 1
 ---
 Jul 21, 2024
 
-<figure>
-    <img src="../assets/images/singleCD.jpeg" width="200" height="100"
-         alt="single">
-    <figcaption>Souvineir CD for our front-deck concert.</figcaption>
-</figure>
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/singleCD.jpeg)
 
 > You can download the digital single here: 
 > https://tinyurl.com/woolenblanket
 
 1. woolen blanket
-    written and arranged by Shijie Gu and Sebastian Prillo
+- written and arranged by Shijie Gu and Sebastian Prillo
 2. panoramic sea
-    written and arranged by Shijie Gu
+- written and arranged by Shijie Gu
 3. woolen blanket ~instrumental~
 4. panoramic sea ~instrumental~
 
