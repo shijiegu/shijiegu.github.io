@@ -8,7 +8,7 @@ order: 1
 ---
 Jul 21, 2024
 
-<figure style="width: 300px" class="align-left">
+<figure class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/singleCDsmall.jpeg" alt="">
   <figcaption>House front-deck concert 2024 souvenir.</figcaption>
 </figure> 
