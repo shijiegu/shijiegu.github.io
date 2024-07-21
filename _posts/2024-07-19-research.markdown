@@ -16,7 +16,7 @@ Jul 19, 2024
 
 <figure style="width: 500px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/brain.jpg" alt="">
-  <figcaption> Two rat brain coronal sections. Purple colored dots are Nissl stained cell nuclei. You can see a strip of very light purple above stripes of very dark purple. The light region is corpus callosum, bundles to connect left and right hemispherel the dark strips are in the region hippocampus. Image from [Gillespie et al., 2021](https://www.cell.com/neuron/fulltext/S0896-6273(21)00573-0)</figcaption>
+  <figcaption> Two rat brain coronal sections. Purple colored dots are Nissl stained cell nuclei. You can see a strip of very light purple above stripes of very dark purple. The light region is corpus callosum, bundles to connect left and right hemisphere; the dark strips are in the region hippocampus. Image from [Gillespie et al., 2021](https://www.cell.com/neuron/fulltext/S0896-6273(21)00573-0)</figcaption>
 </figure> 
 
 The brain carries out many different tasks; there are countless number of cells (neurons and neuron maintainence cells), cell types in various brain regions. However, if you take a cross section of the brain and stain them to locate cells; you'd see a couple dense strips. These dense strips of cells lie in the brain region hippocampus. Not only does the hippocampus have a striking dense collection of cells (prominent in the way it looks), the region is central to memory, navigation, and relational thinking. I study the main output part of the hippocampus (prominent in its computation power).
