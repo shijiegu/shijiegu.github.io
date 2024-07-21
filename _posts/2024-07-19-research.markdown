@@ -8,6 +8,17 @@ order: 7
 ---
 Jul 19, 2024
 
+<figure style="width: 1000px" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/ripple.jpeg" alt="">
+  <figcaption> Snapshot of brain activity from the hippocampus CA1 region within 1 second. These are the signal I work with on a daily basis. See text below. </figcaption>
+</figure> 
+
+
+<figure style="width: 300px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/brain.jpg" alt="">
+  <figcaption> Two rat brain coronal sections. Purple colors are Nissl staining used to identify cell nuclears. Image from [Gillespie et al., 2021](https://www.cell.com/neuron/fulltext/S0896-6273(21)00573-0)</figcaption>
+</figure> 
+
 The brain carries out many different tasks; there are countless number of cells (neurons and neuron maintainence cells), cell types in various brain regions. However, if you take a cross section of the brain and stain them to locate cells; you'd see a couple dense strips. These dense strips of cells lie in the brain region hippocampus. Not only do hippocampus have a striking dense collection of cells, the region is central to memory, navigation, and relational thinking. I study the main output part of the hippocampus.
 
 The cover picture shows what the activities in the CA1 region of the hippocampus look like when a lot of cells fire around the same time --- talking about 10s of ms. These strong deflections are thought to be the key driver for memory consolidation.
