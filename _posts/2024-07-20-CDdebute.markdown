@@ -8,19 +8,19 @@ order: 1
 ---
 Jul 21, 2024
 
-<figure class="align-left">
+<figure style="width: 300px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/singleCDsmall.jpeg" alt="">
   <figcaption>House front-deck concert 2024 souvenir.</figcaption>
 </figure> 
 
 > You can download the digital single [here](https://tinyurl.com/woolenblanket).
 
-<span style="font-size:0.5em;">mixed and produced by Shijie Gu</span> 
+<span style="font-size:0.8em;">mixed and produced by Shijie Gu</span> 
 
 1. woolen blanket
-- <span style="font-size:0.5em;">written and arranged by Shijie Gu and Sebastian Prillo</span> 
+- <span style="font-size:0.8em;">written and arranged by Shijie Gu and Sebastian Prillo</span> 
 2. panoramic sea
-- <span style="font-size:0.5em;">written and arranged by Shijie Gu</span> 
+- <span style="font-size:0.8em;">written and arranged by Shijie Gu</span> 
 3. woolen blanket ~instrumental~
 4. panoramic sea ~instrumental~
 
