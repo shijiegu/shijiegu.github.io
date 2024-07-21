@@ -9,12 +9,10 @@ order: 1
 Jul 21, 2024
 
 <figure>
-    <img src="assets/images/singleCD.png" width="200" height="100"
+    <img src="../assets/images/singleCD.jpeg" width="200" height="100"
          alt="single">
     <figcaption>Souvineir CD for our front-deck concert.</figcaption>
 </figure>
-
-![woolen blanket](assets/images/singleCD.png "single")
 
 > You can download the digital single here: 
 > https://tinyurl.com/woolenblanket
