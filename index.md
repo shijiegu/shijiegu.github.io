@@ -1,5 +1,5 @@
 ---
-title: "Shijie Gu / Local Field Potential"
+title: "Shijie Gu"
 permalink: /
 layout: splash
 date: 2021-12-08
@@ -13,7 +13,7 @@ header:
     - label: "My github"
       url: "https://github.com/shijiegu/"
   caption: "image by Bob Hsiang"
-excerpt: "October, 2023"
+excerpt: "...and my music project Local Field Potential"
 intro:
   - excerpt: 'I am a fifth year PhD student in the Joint Bioengineering program at UC Berkeley and UCSF, advised by Prof. [Loren Frank](https://franklab.ucsf.edu/) (UCSF). I study how the brain extracts relational structures from the vast snippets of experiences. Prior to this, I was fortunately enough to work with Prof. [Michale Fee](https://feelaboratory.org/) and [Emily Mackevicius](https://emackev.github.io/) at MIT on songbird learning where I developed an algorithm for tracking the same neuron across days in optical data. Both the work then and now at UCSF center around neuronal sequences and temporal aspect of our daily experiences. While living in San Francisco, breathing in the fog, I often wake up from melodies in my dream. These melodies are made into songs under the Local Field Potential project.'
 feature_row:
