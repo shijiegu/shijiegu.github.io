@@ -20,7 +20,7 @@ feature_row:
   - image_path: /assets/images/IMG_1993.jpeg
     alt: "Duboce Park"
     title: "Duboce Park Stories"
-    excerpt: "Some utterly random events around Duboce Park"
+    excerpt: "Random events around Duboce Park."
     url: /jekyll/update/2021/12/07/duboce.html
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -35,7 +35,7 @@ feature_row:
   - image_path: /assets/images/ripple.jpeg
     alt: "lab"
     title: "lab"
-    excerpt: "Research in Neuroscience"
+    excerpt: "Research in Neuroscience."
     url: "/jekyll/update/2024/07/19/ripple.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
