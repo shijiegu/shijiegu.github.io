@@ -25,6 +25,11 @@ Jul 21, 2024
 3. woolen blanket ~instrumental~
 4. panoramic sea ~instrumental~
 
+<figure style="width: 800px" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/frontdeckconcert.jpeg" alt="">
+  <figcaption>House front-deck concert 2024.</figcaption>
+</figure> 
+
 
 
 
