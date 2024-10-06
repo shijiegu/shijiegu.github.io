@@ -1,0 +1,56 @@
+---
+layout: single
+permalink: /jekyll/update/2024/09/24/bigsur.html
+title:  "Bike/Train from Berkeley to Big Sur in 3 days."
+date:   2024-09-24
+categories: music
+order: 1
+---
+Sep 22-25, 2024
+
+<figure style="width: 300px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/LoversPoint.jpeg" alt="">
+  <figcaption> Lovers Point Beach, Pacific Grove.</figcaption>
+</figure> 
+
+> Having been on Hwy1 between San Francisco and Los Angeles a couple times, I always see those crazy bikers being closer to the cows and the ocean views than me sitting in a car behind the glass window. Not long ago, through my partner, I finally met one such person. “You are one of those!” I said to him when I found that he has done such a bike ride a couple times! Now in September 2024 I finally get to do parts of it myself.
+
+### Making the odds less against me
+Biking along the narrow shoulders and sometimes none can be dangerous. According to other blogs, April or September is low traffic season. On top of that, in 2024 a long stretch of the road is completely broken south of the Slate Hotsprings area due to a landslide in Feb/March raining season, so the Big Sur is only accessible from the north. This prompts me to seize the day/month of low traffic. On top of that hotel prices are much lower. See the 3 notes at the end of the page for more tips in handling traffic.
+
+The road is closed south of the Slate Hotsprings, so we need to double back at some point. In consideration of traffic access is available only on the north side, it is entirely logical to deduce that some period of the day, I can have the road completely to myself. Indeed, on a morning, I was able to bike to McWay Fall from my inn and back with 80% of time biking in the middle of the lane!
+
+In sum, I chose to do the bike ride at a low traffic period and arrange biking time to enjoy the luxury of zero cars on the road with me.
+
+### Working with circumstances
+The circumstances are road is closed half way, although as I mentioned before, this constraint can be an opportunity.
+
+Other circumstances are that civilizations are often 20 miles apart. This means pacing myself and avoiding cramps because there is no place to sit other than butt on the hard dirt ground. This also means carrying enough water. 750 mL in my experience is ample.
+
+### Itinerary
+I went to a conference (UCSF Neuroscience Retreat) at Pacific Grove, and so this itinery includes 2 overnight stays in Pacific Grove. If you are coming down from Berkeley/San Francisco area, because highly likely the Amtrak will be delayed, it is wise to do little biking on day 1. 
+
+#### Day 1: Get your ass to Monterey area.
+**Emeryville to Salinas (Amtrak)** 10:30 - 14:30
+**Salinas to Monterey to Pacific Grove**: bike! This stretch should take about 2:30 hours. Route on [Strava](https://strava.app.link/uRCOMY9LjNb)
+
+Notes on this stretch: the Blanco Rd from Salinas to Preservation Rd is sketchy. It’s next to heavy traffic and the road is fully of dirt making the bike ride unstable. It is, according to locals, gray, in Salinas. Biking in strong wind blowing right in your face, dirt, bleak overcast. If that doesn’t sound fun, take Bus 20 to Marina, CA and get off at around Cafe Mia. The coastal ride is along Hwy1 but completely separated and is paved nicely and has nice views. You shouldn’t be biking along cars for the most part and if you find yourself do, ask around and get back to the beautiful bike path. The view gets better and better until you won’t believe it around Monterey all the way to Pacific Grove where I ended today’s journey. Bathroom breaks along this route: the first one should be around Marina, CA and another one could be around Lovers Point Beach in Pacific Grove.
+
+<figure style="width: 800px" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/SandCity.jpeg" alt="">
+  <figcaption>Figure 1A. Sand City, on route to Monterey.</figcaption>
+</figure> 
+
+<figure style="width: 800px" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/FishermanShoreLinePark.jpeg" alt="">
+  <figcaption>Figure 1B. Fisherman's Shoreline Park, Monterey, CA.</figcaption>
+</figure> 
+
+**After arriving at Pacific Grove**
+Swimming in Lovers Point Beach, Pacific Grove. There is a place there to rent wetsuits. The wetsuits are good quality. Super friendly guy runs that shop. Bring your swimming goggles though.
+
+
+
+
+
+
