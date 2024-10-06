@@ -39,6 +39,13 @@ feature_row:
     url: "/jekyll/update/2024/07/19/ripple.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
+  - image_path: /assets/images/Bike.jpeg
+    alt: "adventures"
+    title: "adventures"
+    excerpt: "adventures around San Francisco."
+    url: "/jekyll/update/2024/09/24/bigsur.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/IMG_1869.jpeg
     image_caption: "Cooking adventures featuring large quantity"
     alt: "food"
