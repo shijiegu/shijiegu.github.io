@@ -34,7 +34,7 @@ I went to a conference (UCSF Neuroscience Retreat) at Pacific Grove, and so this
 **Emeryville to Salinas (Amtrak)** 10:30 - 14:30
 **Salinas to Monterey to Pacific Grove**: bike! This stretch should take about 2:30 hours. Route on [Strava](https://strava.app.link/uRCOMY9LjNb)
 
-<figure style="width: 400px" class="align-center">
+<figure style="width: 500px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/SandCity.jpeg" alt="">
   <figcaption>Figure 1A. Sand City, on route to Monterey.</figcaption>
 </figure> 
@@ -56,7 +56,7 @@ Notes for the stretch:
 3. Rest well at Pebble beach as this will be the last stop that doesn’t require detour before the 24 miles into the Big Sur.
 4. After the 17 miles drive you’d be biking along cars for 2 blocks before entering Big Sur through a bridge. Strava for this stretch is [here](https://strava.app.link/MDVhxxCplNb)
 5. 8 miles into the 24 miles, there are portapotty mobile bathrooms at the Garrapata Beach. The bathrooms have sink. But this one will be the last stop that has a bathroom with a sink.
-6. I recommend Big Sur River Inn to stay overnight. Certified choice by locals: they wouldn’t need a place to stay but they’d bring their friends here to sit in the river. The chairs in the Big Sur River is such a vibe. Overnight stay is also the cheapest there. Spacious and clean rooms. There is also a general store at the site. Perfect place!
+6. I recommend [Big Sur River Inn](https://www.bigsurriverinn.com/) to stay overnight. Certified choice by locals: they wouldn’t need a place to stay but they’d bring their friends here to sit in the river. The chairs in the Big Sur River is such a vibe. Overnight stay is also the cheapest there. Spacious and clean rooms. There is also a general store at the site. Perfect place!
 7. After checking in, I spent some time sitting in the river. Then shop for tmr’s breakfast, as I’d need to have breakfast at 6 so that I can hit the road at 7. All restaurants in Big Sur opens at 8am. There is one backup: the Big Sur Deli about 4 miles in from the River Inn opens at 7am.
 8. After checking in and sitting in the river, I hopped on the bike again for 2 miles of light biking to the Pfeiffer Fall Park for a hike with great view short < 3 mile in total. Bring ample lights as the sun may go down faster than you think.
 
@@ -102,7 +102,7 @@ Notes on this stretch:
 4. Avoid using panneels. They widen the space you take on the road. I don’t find them necessary. See the picture below for my setup. Of course, if you do camping, then that’s your only solution.
 5. Avoid backpack on your back. Not only will it tires you more and overall makes the biking trip less enjoyable, it also hinders sweat wicking. Big Sur has good weather, but you’d sweat a lot in the long ascents. The good news is the sweat will dry quickly if there’s nothing on your back.
 
-<figure style="width: 500px" class="align-center">
+<figure style="width: 600px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/carmel.jpeg" alt="">
   <figcaption>Figure 3B. I’m finally back to Carmel and I’m done.</figcaption>
 </figure> 
