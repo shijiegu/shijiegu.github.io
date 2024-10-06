@@ -34,7 +34,7 @@ I went to a conference (UCSF Neuroscience Retreat) at Pacific Grove, and so this
 **Emeryville to Salinas (Amtrak)** 10:30 - 14:30
 **Salinas to Monterey to Pacific Grove**: bike! This stretch should take about 2:30 hours. Route on [Strava](https://strava.app.link/uRCOMY9LjNb)
 
-<figure style="width: 400px" class="align-left">
+<figure style="width: 400px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/SandCity.jpeg" alt="">
   <figcaption>Figure 1A. Sand City, on route to Monterey.</figcaption>
 </figure> 
