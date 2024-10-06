@@ -36,12 +36,12 @@ I went to a conference (UCSF Neuroscience Retreat) at Pacific Grove, and so this
 
 Notes on this stretch: the Blanco Rd from Salinas to Preservation Rd is sketchy. It’s next to heavy traffic and the road is fully of dirt making the bike ride unstable. It is, according to locals, gray, in Salinas. Biking in strong wind blowing right in your face, dirt, bleak overcast. If that doesn’t sound fun, take Bus 20 to Marina, CA and get off at around Cafe Mia. The coastal ride is along Hwy1 but completely separated and is paved nicely and has nice views. You shouldn’t be biking along cars for the most part and if you find yourself do, ask around and get back to the beautiful bike path. The view gets better and better until you won’t believe it around Monterey all the way to Pacific Grove where I ended today’s journey. Bathroom breaks along this route: the first one should be around Marina, CA and another one could be around Lovers Point Beach in Pacific Grove.
 
-<figure style="width: 300px" class="align-left">
+<figure style="width: 400px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/SandCity.jpeg" alt="">
   <figcaption>Figure 1A. Sand City, on route to Monterey.</figcaption>
 </figure> 
 
-<figure style="width: 500px" class="align-right">
+<figure style="width: 400px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/FishermanShoreLinePark.jpeg" alt="">
   <figcaption>Figure 1B. Fisherman's Shoreline Park, Monterey, CA.</figcaption>
 </figure> 
@@ -76,7 +76,7 @@ Notes for the stretch:
 </figure> 
 
 <figure style="width: 500px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/subsetpfeiffer.jpeg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/sunsetpfeiffer.jpeg" alt="">
   <figcaption>Figure 2D. Sunset around Pfeiffer Fall.</figcaption>
 </figure> 
 
@@ -90,12 +90,12 @@ Notes on this stretch:
 6. Rest well/big lunch as River Inn and charge your phone before heading out on the 22 miles to Carmel. Strava for this portion is [here](https://strava.app.link/eL1YbgqplNb)
 7. I took Bus 5 back to Monterey from Carmel. I highly taking this bus or other buses if you decide you are not doing the 17 mile drive twice. The Hwy 1 portion of this stretch is not worth doing.
 
-<figure style="width: 300px" class="align-center">
+<figure style="width: 500px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/mcwayfall.jpeg" alt="">
   <figcaption>Figure 3A. The terminal stop before Hwy1 road closure: the McWay Fall, emerald even on a cloudy morning.</figcaption>
 </figure> 
 
-<figure style="width: 500px" class="align-left">
+<figure style="width: 800px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/carmel.jpeg" alt="">
   <figcaption>Figure 3B. Figure 3B. I’m finally back to Carmel and I’m done.</figcaption>
 </figure> 
