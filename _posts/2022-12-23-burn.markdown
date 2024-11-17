@@ -1,9 +1,0 @@
----
-layout: single
-permalink: /jekyll/update/2022/12/23/lab.html
-title:  "The burn is repetition"
-date:   2022-12-23
-categories: lab
-order: 3
----
-Dec 23, 2022
