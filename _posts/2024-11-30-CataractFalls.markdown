@@ -41,10 +41,20 @@ Nov 30, 2024
 2. Public bathroom: the one by Sausalito pier. Remove the bridge layer.
 3. Dolliver Park bathroom public bathroom. 
 4. Fairfax - the coffee Roastery. This will be the last food intake options.
+
 **B. Fairfax to Alpine Dam**. From now on, it will be lots of climbs. After that it would be biking on ridge. All do-able as it’s not too steep but you won’t be able to get food or water along the way. Again, pack enough snacks and water in Fairfax. This stretch starts right behind the coffee roastery onto the Bolinas Road. You will go through a golf club in the middle of nowhere after some moderate climb.
+
 **C. Alpine Dam and Cataract Fall hike.**
 You can lock the bike closer to the dam area and walk over to the trail. Take ample rest here before going back to biking. It is all uphill until the top.
+
 **D. Mt Tam ridge**
 Rest at the top. Turn left, then shortly after the peak, you should see a sign going into the Mt Tam Park. It gets warmer in this stretch. You will soon be fully exposed under the sun, which is nice if it is cold. Endless lines of mountain contours on your left side and the ocean on your right side. You may be able to see Farallon Island on a nice day.
+
 **E. Mountain Home Inn**
 This is the rest before the last bit of descents. Nice spot to have a meal. The deck overlooks the mountains and is warm.
+
+**F. Bottom of the hill - Joe's Taco Lounge**
+[Joe's Taco Lounge](https://g.co/kgs/bXt7fTi). Big serving. I recommend the Mexican style burgers and their Chicken Tortilla Soup. Can be cold to be here for a long time unless sun is available.
+
+**G. Sausalito Ferry Terminal**
+Try timing your trip to enjoy a perfect sunset here or on the ferry.
