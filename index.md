@@ -43,7 +43,7 @@ feature_row:
     alt: "adventures"
     title: "adventures"
     excerpt: "adventures around San Francisco."
-    url: "/jekyll/update/2024/09/24/bigsur.html"
+    url: "/jekyll/update/2024/09/01/bike.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/IMG_1869.jpeg
