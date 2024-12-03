@@ -7,6 +7,7 @@ categories: bike
 order: 2
 ---
 Nov 30, 2024
+This is a day road biking trip.
 
 <figure style="width: 300px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/cataractFalls1.jpeg" alt="">
