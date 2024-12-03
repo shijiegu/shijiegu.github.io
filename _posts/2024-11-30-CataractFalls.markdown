@@ -8,6 +8,11 @@ order: 2
 ---
 Nov 30, 2024
 
+<figure style="width: 300px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/cataractFalls1.jpeg" alt="">
+  <figcaption> Hiking/Walking to the Cataract Falls.</figcaption>
+</figure> 
+
 > This is a really fun one — the combination of climbing deep in the forest, Mt. Tam ridge meandering, descents on well-paved roads, and hiking alongside waterfalls gives you a full day of an assortment of Marin beauty. The elevation gain is around 4000 ft, but it’s spread out. Not too difficult. 
 
 > Strava link is [here](https://www.strava.com/activities/13019939398)

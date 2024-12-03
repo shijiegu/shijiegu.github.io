@@ -4,7 +4,7 @@ permalink: /jekyll/update/2024/09/24/bigsur.html
 title:  "Bike/Train from Berkeley to Big Sur in 3 days."
 date:   2024-09-24
 categories: bike
-order: 1
+order: 2
 ---
 Sep 22-25, 2024
 
