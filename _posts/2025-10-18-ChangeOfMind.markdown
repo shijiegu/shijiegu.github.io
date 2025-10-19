@@ -1,16 +1,16 @@
 ---
 layout: single
-permalink: /jekyll/update/2024/11/30/cataractfalls.html
-title:  "Alpine Dam and Cataract Falls by Mt Tamalpais."
-date:   2024-11-30
-categories: bike
+permalink: /jekyll/update/2025/10/18/change.html
+title:  "This is your brain when you change your mind."
+date:   2025-10-18
+categories: lab
 order: 2
 ---
-Nov 30, 2024
-This is a day road biking trip.
+Nov 30, 2025
+This is a day to update website.
 
 <figure style="width: 300px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/cataractFalls1.jpeg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/changefigure1.jpeg" alt="">
   <figcaption> Hiking/Walking to the Cataract Falls.</figcaption>
 </figure> 
 

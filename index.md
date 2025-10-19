@@ -36,7 +36,7 @@ feature_row:
     alt: "lab"
     title: "lab"
     excerpt: "Research in Neuroscience."
-    url: "/jekyll/update/2024/07/19/ripple.html"
+    url: "/jekyll/update/2025/10/18/change.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/Bike.jpeg
