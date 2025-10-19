@@ -9,7 +9,7 @@ order: 2
 Oct 19, 2025
 This page is undergoing major update.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=FB9uzgxNyck" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FB9uzgxNyck?si=vOScsTjpSF6BdzWW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <figure style="width: 300px" class="align-left">
