@@ -5,6 +5,15 @@ title:  "This is your brain when you change your mind."
 date:   2025-10-18
 categories: lab
 order: 2
+
+sidebar:
+  - title: "This is your brain when you change your mind."
+    image: "/assets/images/theta.gif"
+    image_alt: "image"
+    text: "After a change of mind, the hippocampus wonders."
+  - title: "To be published soon.."
+    text: "Authors: Shijie Gu, Anna Gillespie, Chenyan Liu, and Loren Frank."
+    nav: sidebar-sample
 ---
 Oct 19, 2025
 
