@@ -7,21 +7,25 @@ categories: lab
 order: 2
 ---
 Oct 19, 2025
-This page is undergoing major update.
+
+Have you ever morphed your handwritten choice of A into a B when you were in school doing multiple-choice questions? Have you ever picked up a grocery, then put it back right after? My first grad school paper is on this topic - a change of mind. What happens in your brain when you have such a change of mind? Is switching your choice from A to B actually helpful in your next exam? Let me give you some answers in this blog!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FB9uzgxNyck?si=vOScsTjpSF6BdzWW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### The dataset:
+Between 2022 to 2024, I “raised” 5 rats in a maze where milk from various ports is always delivered in a specific order across 5 milk spouts. 4 of these spouts are located at the end of 4 long maze arms (1 meter each), extending from the center platform, leading to the home spout, the 5th milk spout. I wanted to see if they can figure this milk delivery pattern out. If so, what is the neural mechanism behind it? 
 
 
 <figure style="width: 300px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/changefigure1.jpeg" alt="">
-  <figcaption> Hiking/Walking to the Cataract Falls.</figcaption>
+  <figcaption> The experimental arena looks like this. There are 4 outer arms and a home arm each leading to a milk port. There is a camera in the room to capture animal location.</figcaption>
 </figure> 
 
 > This is a really fun one — the combination of climbing deep in the forest, Mt. Tam ridge meandering, descents on well-paved roads, and hiking alongside waterfalls gives you a full day of an assortment of Marin beauty. The elevation gain is around 4000 ft, but it’s spread out. Not too difficult. 
 
 > Strava link is [here](https://www.strava.com/activities/13019939398)
 
-### General logistical items and notes:
+
 1. This will be a full day trip. Highly likely you will need to take the ferry back because of the cold weather at sunset or you’re simply too tired. We left the GGBridge at 9am and took the 5pm ferry back from Sausalito.
 2. Due to the long duration of the trip spanning morning and evening, diverse terrain and activities the trip contains, bringing layers is a must.
 3. Because the climbs are spread out, it is important to take breaks to prevent cramps. 
