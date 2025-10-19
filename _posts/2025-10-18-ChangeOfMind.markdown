@@ -10,8 +10,8 @@ sidebar:
   - title: "This is your brain when you change your mind."
     image: "/assets/images/theta.gif"
     image_alt: "image"
-    text: "After a change of mind, the hippocampus wonders."
-  - title: "To be published soon.."
+    text: "the “change-of-mind” behavior offers a neat window into the mix of now, past, and the future."
+    text: "To appear: The hippocampus encodes counterfactual scenarios during change-of-mind behavior, Society for Neuroscience 2025."
     text: "Authors: Shijie Gu, Anna Gillespie, Chenyan Liu, and Loren Frank."
     nav: sidebar-sample
 ---
@@ -21,57 +21,53 @@ Have you ever morphed your handwritten choice of A into a B when you were in sch
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FB9uzgxNyck?si=vOScsTjpSF6BdzWW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### The dataset:
+### The dataset
 Between 2022 to 2024, I “raised” 5 rats in a maze where milk from various ports is always delivered in a specific order across 5 milk spouts. 4 of these spouts are located at the end of 4 long maze arms (1 meter each), extending from the center platform, leading to the home spout, the 5th milk spout. I wanted to see if they can figure this milk delivery pattern out. If so, what is the neural mechanism behind it? 
 
 
 <figure style="width: 300px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/changefigure1.jpeg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/change_maze.jpeg" alt="">
   <figcaption> The experimental arena looks like this. There are 4 outer arms and a home arm each leading to a milk port. There is a camera in the room to capture animal location.</figcaption>
 </figure> 
 
-> This is a really fun one — the combination of climbing deep in the forest, Mt. Tam ridge meandering, descents on well-paved roads, and hiking alongside waterfalls gives you a full day of an assortment of Marin beauty. The elevation gain is around 4000 ft, but it’s spread out. Not too difficult. 
-
-> Strava link is [here](https://www.strava.com/activities/13019939398)
+The way I “raised” them is such that initially, a rat just needs to alternate between going back to home and outer arm milk locations. Once they developed the idea of home vs outer arms, I upgraded the milk delivery pattern to be: Home - 3 - Home - 4 - Home - 2 - Home - 1 - Home 3 and the loop continues. Of course they don’t know this pattern, after 2 weeks of hanging out in this maze, they all figured it out. Their motivation to find this pattern could be to maximize the milk they get. My initial plan of my PhD study is to use this dataset to study how the brain extracts patterns from memories. See more in [this](https://shijiegu.github.io/jekyll/update/2025/10/25/ripple.html) blog post.
 
 
-1. This will be a full day trip. Highly likely you will need to take the ferry back because of the cold weather at sunset or you’re simply too tired. We left the GGBridge at 9am and took the 5pm ferry back from Sausalito.
-2. Due to the long duration of the trip spanning morning and evening, diverse terrain and activities the trip contains, bringing layers is a must.
-3. Because the climbs are spread out, it is important to take breaks to prevent cramps. 
-4. Despite it is not too difficult, your body will be sore the next day. Consider doing the ride on a Saturday instead of Sunday.
+### Rats show “change-of-mind” behavior
+Here’s something unexpected: rats often change their mind half way through an arm when they forage for milk. 
 
-### What to bring:
-1. A lightweight lock. You will need this when you hike in the Cataract Falls.
-2. MTB shoes or any shoes that allow you to walk comfortably in. No road bike shoes unless you want to skip the short hike to the fall.
-3. 1-2 more layers. One could be a windbreaker and one could be a thin sweater.
-4. Tons of snack. Total calories should be a minimum of 1000 Cal. (More on this later)
-5. 500ml - 1L water (more on this later)
-6. Sunscreen applied beforehand or brought on the trip.
-7. Repair tool kit.
-8. (Optional) latex gloves to fix loose chain.
-9. (Optional) phone power bank.
+<figure style="width: 300px" class="align-middle">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/change_path.jpg" alt="">
+  <figcaption> Two example paths, one with a change mind at arm 2 before heading to arm 4. </figcaption>
+</figure> 
+
+It’s something other projects in the lab also observe but the frequency in this task is way higher -- up to 20% of attempts have change of mind insinuation in some rats. There are multiple reasons why my rats do this more than others: my rats are good students who take things seriously; I use a very large maze scale so where the outer arms are 1m rather than the shorter 50cm ones used in our [W maze](https://rnel.rice.edu/pubs/Jadhav%20et%20al_2012_Awake%20Hippocampal%20Sharp-Wave%20Ripples%20Support%20Spatial%20Memory.pdf). This large maze set up creates a large cost of a bad choice.
+
+### “change-of-mind” behavior is corrective
+This project is like an indie/alternative part of my PhD, as it started as a small data exploration during a holiday break with no expectations. One of the first things I was curious about are whether the rats were better off keeping their initial choice or changing their mind. It turns out across all rats and all sessions, the choice after a change of mind has on average better outcome. (each day I let them run in the maze for 4-6 sessions of 30-60 min each, with naps in a separate area in between.)
+<figure style="width: 300px" class="align-middle">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/change_corrective.jpg" alt="">
+  <figcaption> Each dot on the plot represents a session's data. In each rat, a dot in the left column is the average correct rate for initial choice on change-of-mind trials; a dot on the right column is the average correct rate for final choice on change-of-mind trials. The final choice is on average better. </figcaption>
+</figure> 
+
+So yes. All these efforts to change their mind are worth it! There is more to the story. We analyzed rats’ long-term behavior changes in this maze and found that this increase of correct rate has something to do with the animal overcoming their foraging bias. Stay tuned for the final paper for this detail.
 
 
-### Stops and Itinerary:
-**A. Going to Fairfax**
-1. GGBridge coffee. Add layer for the bridge.
-2. Public bathroom: the one by Sausalito pier. Remove the bridge layer.
-3. Dolliver Park bathroom public bathroom. 
-4. Fairfax - the coffee Roastery. **This will be the last food intake options. Buy snacks here!** Fill up your water bottle here too.
+### “change-of-mind” behavior is not preceded by predictive coding in the hippocampus
+The hippocampus is a brain structure that is very important for memory formation and retrieval; it is also a brain structure critical for maintaining a so-called “GPS” signal — where you are physically in a space. As a step beyond recalling memory and encoding GPS signal, recently, there have been a few findings linking the hippocampus to the flip side of the past and the current: the future. 
 
-**B. Fairfax to Alpine Dam**. It will be some climbs kicking in quickly. All do-able as it’s not too steep but you won’t be able to get food or water along the way. Again, pack enough snacks and water in Fairfax. This stretch starts right behind the coffee roastery onto the Bolinas Road. You will go through a golf club in the middle of nowhere after some moderate climb.
+In neuroscience terms, the hippocampus has been linked to predictive coding and mental simulation. In simple terms, the “predictive coding” part says that before an animal makes a choice, you can read out (to some extent) from the hippocampus neural activities what the animal is about to do next; the “mental simulation” part is a mellower version that says before an animal makes a choice, you can read out the few options the animal considered rather than just the specific choice the animal picked. In other words, the field is grappling with how the hippocampus decides to encode where you are now, what you are about to do next, or your past, and how it serves the animal altogether.
 
-**C. Alpine Dam and Cataract Fall hike.**
-You can lock the bike closer to the dam area and walk over to the trail. The trail is 0.5 mile long to see some significant falls. Can be made longer into 1 mile longer though. Take ample rest here before going back to biking. It is all uphill until the top.
+This is the point where I realized this project is not indie neuroscience after all — **the “change-of-mind” behavior offers a neat window into the mix of now, past, and the future**. At the tip of a change of mind, does the hippocampus forgo being a GPS and present another option or other options, prompting the rats to change their mind? What is going on in the hippocampus when the rat is actively leaving the initial choice before committing to another one? In the exam analogy, what is going on in the hippocampus while I morph A to B? Does the hippocampus encode the initial choice once the final choice is made? 
 
-**D. Mt Tam ridge.**
-Rest at the top. After the break, you will turn left. The road on the right leads you to Bolinas. You should see a sign going into the Mt Tam Park very quickly. It gets warmer in this stretch. You will soon be fully exposed under the sun, which is nice if it is cold. Endless lines of mountain contours on your left side and the ocean on your right side. You may be able to see [Farallon Island](https://g.co/kgs/DDuF1gp) on a nice day.
+To study this, we assume that the hippocampus encodes the GPS signal when the animal is running and create a map that eats in animal body location and returns the average hippocampus signal. We then apply this map in reverse. This reversed function eats in specific moments of hippocampus signal and returns an estimate of the animal body location. If that the moment the hippocampus signal deviates a lot from the usual GPS signal, the estimated body location will not track the actual animal location. It is a mouthful to explain, and it might make more sense to see the plot directly:
 
-**E. Mountain Home Inn**
-This is the rest before the last bit of descents. Nice spot to have a meal. The [deck](https://g.co/kgs/wp1ARux) overlooks the mountains and is warm.
+<figure style="width: 300px" class="align-middle">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/change_thetadecode_lewis.jpg" alt="">
+  <figcaption> In the top panel, magenta denotes animal body location and black ink denotes estimates of the animal location from the hippocampus data. In the bottom panel, we plot animal's speed as a reference. The moment when the speed dips to 0 is defined to be the moment the animal changes its mind. </figcaption>
+</figure>
 
-**F. Bottom of the hill - Joe's Taco Lounge**
-[Joe's Taco Lounge](https://g.co/kgs/bXt7fTi). Big serving. I recommend the Mexican style burgers and their Chicken Tortilla Soup. Can be cold to be here for a long time unless sun is available.
+To our surprise, there is little loss of GPS signal before a change of mind, defined by animal abruptly stopping on an arm before backing off or turning around to go to another arm. Instead, the hippocampus actively simulates going towards the end of the arm while actively leaving the arm — a mental simulation of what could have been if the choice is not changed. 
 
-**G. Sausalito Ferry Terminal**
-Try timing your trip to enjoy a perfect sunset here or on the ferry.
+I am still doing more analysis to answer more questions. Stay tuned for the final paper!
+
