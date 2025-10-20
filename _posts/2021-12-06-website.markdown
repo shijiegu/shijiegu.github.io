@@ -1,0 +1,34 @@
+---
+layout: single
+permalink: /jekyll/update/2021/12/06/website.html
+title:  "How I made this website"
+date:   2021-12-06
+categories: blog
+order: 1
+---
+---
+Last updated Oct 19, 2025
+
+### Helpful notes on how the website is created
+
+The website is created with Jekyll, which is software that takes in markdown then convert them to HTML for a website based on some template layouts. I chose the [minimal mistakes](), which among the free one among [many others]() you can choose.
+
+Prior to 2023, you will need to have all Jekyll functionality all worked out locally before you can publish your html's to github site. At one point in 2024, Github really encourages building Jekyll sites with Github Action. You can find the offical doc [here](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll). TDLR: instead of installing Ruby, Jekyll etc locally, you will ask the Github server run these processes to convert the markdowns to HTML.
+
+### The hell of versioning
+It was not easy to find versions of packages that work together and here is working combo.
+```
+gem "github-pages","215", group: :jekyll_plugins
+```
+with </code> ruby-version: '3.1' <code> set in file <code>.github/workflows</code>.
+Higher Ruby versions contains weird dependency issues with </code> Liquid <code> that is extremely hard to get by.
+
+
+New in Oct 2024: Need to specify Ubuntu 22.04 in runner image, see [Github Issue](https://github.com/actions/runner-images/issues/10636). Change to <code>runs-on: ubuntu-22.04</code> in file <code>.github/workflows</code>.
+
+
+
+
+
+
+
