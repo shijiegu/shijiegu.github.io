@@ -24,31 +24,31 @@ feature_row:
     url: "/jekyll/update/2025/10/18/change.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/Bike.jpeg
-    alt: "adventures"
-    title: "adventures"
-    excerpt: "adventures around San Francisco."
-    url: "/jekyll/update/2024/09/01/bike.html"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/CDpictures.jpeg
-    image_caption: "hand-made screenprinted CD booklets"
-    alt: "music"
-    title: "music"
-    excerpt: "Original music that I write while living in San Francisco."
-    url: "/jekyll/update/2024/07/20/woolenblanket.html"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/gpfa_scatter.gif
+  - image_path: /assets/images/gpfa_scatter2.gif
     alt: "misc"
-    title: "Miscellaneous projects"
+    title: "Miscellaneous projects."
     excerpt: "Side hustles."
     url: /jekyll/update/2024/10/01/misctable.html
     btn_label: "Read More"
     btn_class: "btn--primary"
+  - image_path: /assets/images/fiascoflorists.jpeg
+    image_caption: "Duboce Jam May 2025"
+    alt: "music"
+    title: "Music."
+    excerpt: "Original music that I write while living in San Francisco."
+    url: "/jekyll/update/2024/07/20/woolenblanket.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/Bike.jpeg
+    alt: "adventures"
+    title: "Adventures."
+    excerpt: "Adventures around San Francisco."
+    url: "/jekyll/update/2024/09/01/bike.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/IMG_1993.jpeg
     alt: "Duboce Park"
-    title: "Duboce Park Stories"
+    title: "Duboce Park Stories."
     excerpt: "Random events around Duboce Park."
     url: /jekyll/update/2021/12/07/duboce.html
     btn_label: "Read More"
