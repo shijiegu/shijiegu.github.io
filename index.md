@@ -31,7 +31,7 @@ feature_row:
     url: /jekyll/update/2024/10/01/misctable.html
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/fiascoflorists.jpeg
+  - image_path: /assets/images/fiascoflorists.jpg
     image_caption: "Duboce Jam May 2025"
     alt: "music"
     title: "Music."
