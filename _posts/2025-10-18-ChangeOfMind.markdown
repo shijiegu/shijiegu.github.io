@@ -10,11 +10,11 @@ sidebar:
   - title: "This is your brain when you change your mind."
     image: "/assets/images/theta.gif"
     image_alt: "image"
-    text: "the “change-of-mind” behavior offers a neat window into the mix of now, past, and the future."
-    text: "To appear: The hippocampus encodes counterfactual scenarios during change-of-mind behavior, Society for Neuroscience 2025."
-    text: "Authors: Shijie Gu, Anna Gillespie, Chenyan Liu, and Loren Frank."
+    text: "To appear: The hippocampus encodes counterfactual scenarios during change-of-mind behavior, Society for Neuroscience 2025. Authors: Shijie Gu, Anna Gillespie, Chenyan Liu, and Loren Frank."
     nav: sidebar-sample
 ---
+> "the “change-of-mind” behavior offers a neat window into the mix of now, past, and the future."
+
 Oct 19, 2025
 
 Have you ever morphed your handwritten choice of A into a B when you were in school doing multiple-choice questions? Have you ever picked up a grocery, then put it back right after? My first grad school paper is on this topic - a change of mind. What happens in your brain when you have such a change of mind? Is switching your choice from A to B actually helpful in your next exam? Let me give you some answers in this blog!
@@ -53,7 +53,7 @@ From the plot we see that the final choice is on average better. All these effor
 
 
 ### “change-of-mind” behavior is not preceded by predictive coding in the hippocampus
-The hippocampus is a brain structure that is very important for memory formation and retrieval; it is also a brain structure critical for maintaining a so-called (“GPS” signal)[https://www.nobelprize.org/prizes/medicine/2014/press-release/] — where you are physically in a space. As a step beyond recalling memory and encoding GPS signal, recently, there have been a few findings linking the hippocampus to the flip side of the past and the current: the future (see (here)[https://www.nature.com/articles/nature12112], and (here)[https://www.cell.com/cell/fulltext/S0092-8674(20)30061-1]). 
+The hippocampus is a brain structure that is very important for memory formation and retrieval; it is also a brain structure critical for maintaining a so-called [“GPS” signal](https://www.nobelprize.org/prizes/medicine/2014/press-release/) — where you are physically in a space. As a step beyond recalling memory and encoding GPS signal, recently, there have been a few findings linking the hippocampus to the flip side of the past and the current: the future (see [here](https://www.nature.com/articles/nature12112), and [here](https://www.cell.com/cell/fulltext/S0092-8674(20)30061-1)). 
 
 In neuroscience terms, the hippocampus has been linked to predictive coding and mental simulation. In simple terms, the “predictive coding” part says that before an animal does something, you can read out (to some extent) from the hippocampus neural activities what the animal is about to do next; the “mental simulation” part is a mellower version that says before an animal makes a choice, you can read out the few options the animal considered rather than just the specific choice the animal picked. In summary, the field is grappling with how the hippocampus decides to encode where you are now, what you are about to do next, or your past, and how it serves you altogether.
 

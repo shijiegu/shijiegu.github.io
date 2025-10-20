@@ -8,5 +8,5 @@ order: 1
 ---
 
 ### List of trips:
-1. [Cataract Falls to and from San Francisco.](https://shijiegu.github.io/jekyll/update/2024/11/30/cataractfalls.html) Road bike day trip. Last updated: Nov 30, 2024.
+1. [Cataract Falls to and from San Francisco.](https://shijiegu.github.io/jekyll/update/2024/11/30/cataractfalls.html) Road bike day trip. Last updated: Apr 30, 2025.
 2. [Big Sur to and from Berkeley.](https://shijiegu.github.io/jekyll/update/2024/09/24/bigsur.html) Train + road bike multi-day. Last updated: Sep 24, 2024.

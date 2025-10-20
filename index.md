@@ -20,7 +20,7 @@ feature_row:
   - image_path: /assets/images/theta.gif
     alt: "lab"
     title: "Research in Neuroscience."
-    excerpt: "Mental simulations in the hippocampus"
+    excerpt: "Mental simulations in the hippocampus."
     url: "/jekyll/update/2025/10/18/change.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -37,6 +37,13 @@ feature_row:
     title: "music"
     excerpt: "Original music that I write while living in San Francisco."
     url: "/jekyll/update/2024/07/20/woolenblanket.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/gpfa_scatter.gif
+    alt: "misc"
+    title: "Miscellaneous projects"
+    excerpt: "Side hustles."
+    url: /jekyll/update/2024/10/01/misctable.html
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/IMG_1993.jpeg
