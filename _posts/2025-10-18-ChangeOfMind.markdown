@@ -35,7 +35,7 @@ The way I “raised” them is such that initially, a rat just needs to alternat
 ### Rats show “change-of-mind” behavior
 Here’s something unexpected: rats often change their mind half way through an arm when they forage for milk. 
 
-<figure style="width: 600px" class="align-middle">
+<figure style="width: 500px" class="align-middle">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/change_path.jpg" alt="">
   <figcaption> Two example paths, one with a change mind at arm 2 before heading to arm 4. </figcaption>
 </figure> 

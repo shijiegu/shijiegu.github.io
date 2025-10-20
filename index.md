@@ -6,7 +6,7 @@ date: 2021-12-08
 header:
   overlay_color: "#000"
   overlay_filter: "0.1"
-  overlay_image: /assets/images/Shijiebluebear.jpg
+  overlay_image: /assets/images/sandler.jpeg
   actions:
     - label: "Google Scholar"
       url: "https://scholar.google.com/citations?user=SIJAMPwAAAAJ&hl=en"
