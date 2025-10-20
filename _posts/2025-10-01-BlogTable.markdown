@@ -13,6 +13,6 @@ order: 1
 
 ### Blogs:
 1. Duboce Jam May 2025. Neighborhood's music festival.
-2. [Front-deck concert!](https://shijiegu.github.io/jekyll/update/2024/07/20/woolenblanket.html). July 2024. A concert in the stair case of my apartment in San Francisco.
-3. [Welcome to the Duboce Park!](https://shijiegu.github.io/jekyll/update/2021/12/07/duboce.html). A short story. Last updated: Dec 06, 2021.
-4. [How I created the website.](https://shijiegu.github.io/jekyll/update/2021/12/06/website.html). Last updated: Oct 19, 2025.
+2. [Front-deck concert!](https://shijiegu.github.io/jekyll/update/2024/07/20/woolenblanket.html) July 2024. A concert in the stair case of my apartment in San Francisco.
+3. [Welcome to the Duboce Park!](https://shijiegu.github.io/jekyll/update/2021/12/07/duboce.html) A short story. Last updated: Dec 06, 2021.
+4. [How I created the website.](https://shijiegu.github.io/jekyll/update/2021/12/06/website.html) Last updated: Oct 19, 2025.
