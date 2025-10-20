@@ -40,8 +40,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FB9uzgxNyck?si=dX-AE3Glypfg-i69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Music written and produced by me.
+
 
 
 {% include feature_row id="intro" type="center" %}
@@ -49,3 +48,6 @@ Music written and produced by me.
 {% include feature_row %}
 
 {% include feature_row id="feature_row2" type="left" %}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FB9uzgxNyck?si=dX-AE3Glypfg-i69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Music written and produced by me.
