@@ -84,11 +84,11 @@ There is more to the story. It turns out this counterfactual trajectory is packe
   <figcaption> Legends are the same as in the last plot. </figcaption>
 </figure>
 
-You can see that the hippocampus often represents other arm locations. It turns out that these representations are statistically predictive of where the animal will go next. 
+You can see that the hippocampus often represents other arm locations. It turns out that these representations are statistically predictive of where the animal will go next (Mixed logistic regression, fold change 1.9, p < 0.0001). 
 
 ### Remote representations predict improved task performance
 
-Another intriguing finding is that on these trials where the hippocampus have explored other arm options, animals make better subsequent choice. The effect size is about 1.4. Meaning given a baseline of getting right at probability of p, with some help of hippocampus exploring remote options, the probability of getting right jumps to be 1.4 * p. For example, given a baseline of getting right at probability of 0.5, with some help of hippocampus exploring remote options, the probability of getting right becomes 0.7.
+Another intriguing finding is that on these trials where the hippocampus have explored other arm options, animals on average make better subsequent choice. The effect size is about 1.4. Meaning given a baseline of getting right at probability of p, with some help of hippocampus exploring remote options, the probability of getting right jumps to be 1.4 * p. For example, given a baseline of getting right at probability of 0.5, with some help of hippocampus exploring remote options, the probability of getting right becomes 0.7.
 
 <figure style="width: 600px" class="align-middle">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/change_correct.jpg" alt="">
@@ -98,5 +98,6 @@ Another intriguing finding is that on these trials where the hippocampus have ex
 Meanwhile, we are exploring if the gaze of the animal is related to this mental exploration of options. Please stay tuned for the final paper!
 
 - Written by Shijie Gu, Oct 19, 2025 and Nov 13, 2025.
-- Edited by Vanessa Bender, Nov 13, 2025.
+- Figures edited by Loren Frank, Nov 11, 2025.
+- Text edited by Vanessa Bender, Nov 13, 2025.
 
