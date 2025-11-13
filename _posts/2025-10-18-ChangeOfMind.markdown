@@ -72,9 +72,29 @@ Here is a video version of the static plot. Magenta denotes where the rat is and
 
 To our surprise, there is little loss of GPS signal before a change of mind, defined by animal abruptly stopping on an arm before backing off or turning around to go to another arm. Instead, the hippocampus actively simulates going towards the end of the arm while actively leaving the arm — a mental simulation of what could have been if the choice was not changed.
 
-There is more to the story. It turns out there are some specific temporal pattern in which this counterfactual trajectory is packed with the GPS signal. In addition, sometimes the hippocampus encodes other arm options, which are statistically predictive of where the animal will go next. Please stay tuned for the final paper!
+There is more to the story. It turns out this counterfactual trajectory is packed in a specific temporal pattern -- theta rhythm (~8Hz).
 
+<figure style="width: 600px" class="align-middle">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/change_example_ratE.jpg" alt="">
+  <figcaption> As in the previous plot, magenta denotes animal location while the gray scale plots where in space the hippocampus is representing. Here we also plot the theta rhythm of spiking. MUA refers to the general spiking activities in the CA1 region of the hippocampus. A higher number means more spiking. As you can see spiking activities comes in waves and the rhythm is extracted to be plotted as the "theta" panel. </figcaption>
+</figure>
 
-Written by Shijie Gu, Oct 19, 2025.
+<figure style="width: 600px" class="align-middle">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/change_example_ratML.jpg" alt="">
+  <figcaption> Legends are the same as in the last plot. </figcaption>
+</figure>
+
+You can see that the hippocampus often represents other arm locations. It turns out that these representations are statistically predictive of where the animal will go next. 
+
+Another intriguing finding is that on these trials where the hippocampus have explored other arm options, animals make better subsequent choice. The effect size is about 1.4. Meaning given a baseline of getting right at probability of p, with some help of hippocampus exploring remote options, the probability of getting right jumps to be 1.4 * p. For example, given a baseline of getting right at probability of 0.5, with some help of hippocampus exploring remote options, the probability of getting right becomes 0.7.
+
+<figure style="width: 600px" class="align-middle">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/change_correct.jpg" alt="">
+  <figcaption> In the left panel, we show the correct rate of choices with or without mental explorations of the hippocampus to other locations. In the right panel, we show statistics. </figcaption>
+</figure>
+
+Meanwhile, we are exploring if the gaze of the animal is related to this mental exploration of options. Please stay tuned for the final paper!
+
+Written by Shijie Gu, Oct 19, 2025 and Nov 13, 2025.
 Edited by Vanessa Bender, Nov 13, 2025.
 
