@@ -1,0 +1,7 @@
+sidebar-change-of-mind:
+  - title: "Table of contents"
+    children:
+      - title: "The dataset"
+        url: /jekyll/update/2025/10/18/change.html#the-dataset
+      - title: "The dataset 2"
+        url: /jekyll/update/2025/10/18/change.html#the-dataset
