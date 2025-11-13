@@ -10,7 +10,7 @@ sidebar:
   - title: "This is your brain when you change your mind."
     image: "/assets/images/theta.gif"
     image_alt: "image"
-    text: "The hippocampus encodes counterfactuals and hypotheticals during change-of-mind, Society for Neuroscience 2025. Authors: Shijie Gu, Anna Gillespie, Chenyan Liu, Kenny Kay, Rhino Nevers, Michael Coulter, and Loren Frank."
+    text: "Magenta denotes where the rat is and the little line on top shows its head direction. The blue/green/yellow shades show the estimate of the animal location from its hippocampus signal, with brighter color denoting regions of higher confidence of the inference. From The hippocampus encodes counterfactuals and hypotheticals during change-of-mind, Society for Neuroscience 2025. Authors: Shijie Gu, Anna Gillespie, Chenyan Liu, Kenny Kay, Rhino Nevers, Michael Coulter, and Loren Frank."
     nav: sidebar-change-of-mind
 ---
 > "The “change-of-mind” behavior offers a window into how the brain uses the past, present and future to make decisions."
