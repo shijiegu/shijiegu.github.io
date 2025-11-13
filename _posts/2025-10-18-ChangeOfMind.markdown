@@ -54,7 +54,7 @@ Each day, the rats ran 4-6 sessions of 30-60 min each, with naps in a separate a
 From the plot we see that the final choice is better on average. All these efforts to change their mind are worth it! There is more to the story. We analyzed the rats’ long-term behavior changes in this maze and found that this increase of correct rate has something to do with the animal overcoming their foraging bias. Please see the final paper for this detail.
 
 
-### “change-of-mind” behavior is not preceded by predictive coding in the hippocampus
+### Remote representations in the hippocampus follow stopping
 The hippocampus is a brain structure that is very important for memory formation and retrieval; it is also a brain structure critical for maintaining a so-called [“GPS” signal](https://www.nobelprize.org/prizes/medicine/2014/press-release/) — a sense of where you are physically in a space. Recently, evidence has suggested that the hippocampus may also play a role linking the hippocampus to planning into the future (see [here](https://www.nature.com/articles/nature12112), and [here](https://www.cell.com/cell/fulltext/S0092-8674(20)30061-1)). 
 
 In neuroscience terms, the hippocampus has been linked to predictive coding and mental simulation. In simple terms, the “predictive coding” part says that before an animal does something, you can predict what the animal is about to do next (to some extent) from the hippocampal neural activity; the “mental simulation” part is a mellower version that says before an animal makes a choice, you can read out the few options the animal considered rather than just the specific choice the animal picked. In summary, the field is grappling with how the hippocampus decides to encode where you are now, what you are about to do next, or your past, and how it serves you altogether to help you make smart choices.
@@ -86,6 +86,8 @@ There is more to the story. It turns out this counterfactual trajectory is packe
 
 You can see that the hippocampus often represents other arm locations. It turns out that these representations are statistically predictive of where the animal will go next. 
 
+### Remote representations predict improved task performance
+
 Another intriguing finding is that on these trials where the hippocampus have explored other arm options, animals make better subsequent choice. The effect size is about 1.4. Meaning given a baseline of getting right at probability of p, with some help of hippocampus exploring remote options, the probability of getting right jumps to be 1.4 * p. For example, given a baseline of getting right at probability of 0.5, with some help of hippocampus exploring remote options, the probability of getting right becomes 0.7.
 
 <figure style="width: 600px" class="align-middle">
@@ -95,7 +97,6 @@ Another intriguing finding is that on these trials where the hippocampus have ex
 
 Meanwhile, we are exploring if the gaze of the animal is related to this mental exploration of options. Please stay tuned for the final paper!
 
-Written by Shijie Gu, Oct 19, 2025 and Nov 13, 2025.
-
-Edited by Vanessa Bender, Nov 13, 2025.
+- Written by Shijie Gu, Oct 19, 2025 and Nov 13, 2025.
+- Edited by Vanessa Bender, Nov 13, 2025.
 
