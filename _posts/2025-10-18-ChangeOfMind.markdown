@@ -11,7 +11,6 @@ sidebar:
     image: "/assets/images/theta.gif"
     image_alt: "image"
     text: "The hippocampus encodes counterfactuals and hypotheticals during change-of-mind, Society for Neuroscience 2025. Authors: Shijie Gu, Anna Gillespie, Chenyan Liu, Kenny Kay, Rhino Nevers, Michael Coulter, and Loren Frank."
-    nav: sidebar-sample
 ---
 > "The “change-of-mind” behavior offers a window into how the brain uses the past, present and future to make decisions."
 
@@ -76,7 +75,7 @@ There is more to the story. It turns out this counterfactual trajectory is packe
 
 <figure style="width: 600px" class="align-middle">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/change_example_ratE.jpg" alt="">
-  <figcaption> As in the previous plot, magenta denotes animal location while the gray scale plots where in space the hippocampus is representing. Here we also plot the theta rhythm of spiking. MUA refers to the general spiking activities in the CA1 region of the hippocampus. A higher number means more spiking. As you can see spiking activities comes in waves and the rhythm is extracted to be plotted as the "theta" panel. </figcaption>
+  <figcaption> As in the previous plot, magenta denotes animal location while the gray scale plots where in space the hippocampus is representing. Here we also plot the theta rhythm of spiking. MUA refers to the general spiking activities in the CA1 region of the hippocampus. A higher number means more spiking. As you can see spiking activities comes in waves. The rhythm of spiking is extracted to be plotted as the "theta" panel. </figcaption>
 </figure>
 
 <figure style="width: 600px" class="align-middle">
@@ -90,7 +89,7 @@ Another intriguing finding is that on these trials where the hippocampus have ex
 
 <figure style="width: 600px" class="align-middle">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/change_correct.jpg" alt="">
-  <figcaption> In the left panel, we show the correct rate of choices with or without mental explorations of the hippocampus to other locations. In the right panel, we show statistics. </figcaption>
+  <figcaption> In the left panel, we show the correct rate of choices with or without mental explorations of other locations by the hippocampus. In the right panel, we show statistics. </figcaption>
 </figure>
 
 Meanwhile, we are exploring if the gaze of the animal is related to this mental exploration of options. Please stay tuned for the final paper!
