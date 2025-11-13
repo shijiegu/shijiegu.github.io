@@ -10,7 +10,7 @@ sidebar:
   - title: "This is your brain when you change your mind."
     image: "/assets/images/theta.gif"
     image_alt: "image"
-    text: "To appear: The hippocampus encodes counterfactual scenarios during change-of-mind behavior, Society for Neuroscience 2025. Authors: Shijie Gu, Anna Gillespie, Chenyan Liu, and Loren Frank."
+    text: "The hippocampus encodes counterfactuals and hypotheticals during change-of-mind, Society for Neuroscience 2025. Authors: Shijie Gu, Anna Gillespie, Chenyan Liu, Kenny Kay, Rhino Nevers, Michael Coulter, and Loren Frank."
     nav: sidebar-sample
 ---
 > "The “change-of-mind” behavior offers a window into how the brain uses the past, present and future to make decisions."
@@ -68,7 +68,7 @@ To study this, we assume that the hippocampus encodes the GPS signal when the an
   <figcaption> In the top panel, magenta denotes animal body location and black ink denotes estimates of the animal location from the hippocampus data. In the bottom panel, we plot animal's speed as a reference. The moment when the speed dips to 0 is defined to be the moment the animal changes its mind. </figcaption>
 </figure>
 
-Here is a video version of the static plot. Magenta denotes where the rat is and the little line on top shows its head direction. The blue/green/yellow shades show the estimate of the animal location from its hippocampus signal, with brighter color denoting regions of higher confidence of the inference.
+The video on the left shows a 2D version of a static plot. Magenta denotes where the rat is and the little line on top shows its head direction. The blue/green/yellow shades show the estimate of the animal location from its hippocampus signal, with brighter color denoting regions of higher confidence of the inference.
 
 To our surprise, there is little loss of GPS signal before a change of mind, defined by animal abruptly stopping on an arm before backing off or turning around to go to another arm. Instead, the hippocampus actively simulates going towards the end of the arm while actively leaving the arm — a mental simulation of what could have been if the choice was not changed.
 
@@ -96,5 +96,6 @@ Another intriguing finding is that on these trials where the hippocampus have ex
 Meanwhile, we are exploring if the gaze of the animal is related to this mental exploration of options. Please stay tuned for the final paper!
 
 Written by Shijie Gu, Oct 19, 2025 and Nov 13, 2025.
+
 Edited by Vanessa Bender, Nov 13, 2025.
 
