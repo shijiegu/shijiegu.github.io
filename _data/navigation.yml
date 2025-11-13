@@ -1,14 +1,14 @@
 sidebar-change-of-mind:
   - title: "Table of contents"
     children:
-      - title: "The dataset: novel sequence task"
+      - title: "1. The dataset: novel sequence task"
         url: /jekyll/update/2025/10/18/change.html#the-dataset
-      - title: "“change-of-mind” behavior"
+      - title: "2. “Change-of-mind” behavior"
         url: /jekyll/update/2025/10/18/change.html#rats-show-change-of-mind-behavior
-      - title: "“change-of-mind” is corrective"
+      - title: "3. “Change-of-mind” is corrective"
         url: /jekyll/update/2025/10/18/change.html#change-of-mind-behavior-is-generally-corrective
-      - title: "The hippocampus explores other options following stopping"
+      - title: "4. The hippocampus explores other options following stopping"
         url: /jekyll/update/2025/10/18/change.html#remote-representations-in-the-hippocampus-follow-stopping
-      - title: "Explorations other options by the hippocampus predict improved task performance"
+      - title: "5. Explorations other options by the hippocampus predict improved task performance"
         url: /jekyll/update/2025/10/18/change.html#remote-representations-predict-improved-task-performance
       

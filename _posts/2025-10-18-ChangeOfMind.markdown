@@ -29,7 +29,7 @@ Between 2022 and 2024, I trained 5 rats in a maze with 4 outer arms (1 meter eac
   <figcaption> The experimental arena looks like this. There are 4 outer arms and a home arm each leading to a milk port. Rats were placed in the maze and a camera in the room  captured their location. </figcaption>
 </figure> 
 
-Initially, I trained them to alternate between going back to home and outer arm milk locations. Once they had learned to alternate home vs outer arms, I upgraded the milk delivery pattern to be: Home - Well3 - Home - Well4 - Home - Well2 - Home - Well1 - Home - Well3, in a continuous loop. Of course they are not aware of this pattern initially, but after 2 weeks of hanging out in this maze, they all figured it out. Their motivation to find this pattern could be to maximize the milk they get. The initial plan of my PhD study is to use this dataset to study how the brain extracts patterns from memories. See more in [this](https://shijiegu.github.io/jekyll/update/2025/10/25/ripple.html) blog post.
+Initially, I trained them to alternate between going back to home and outer arm milk locations. Once they had learned to alternate home vs outer arms, I upgraded the milk delivery pattern to be: Home - Well3 - Home - Well4 - Home - Well2 - Home - Well1 - Home - Well3, in a continuous loop. Of course they are not aware of this pattern initially, but after 2 weeks of hanging out in this maze, they all figured it out as their running patterns predominantly match this pattern, without redunduncy of other well visits outside of this pattern. Their motivation to find this pattern could be to maximize the milk they get. The initial plan of my PhD study is to use this dataset to study how the brain extracts patterns from memories. See more in [this](https://shijiegu.github.io/jekyll/update/2025/10/25/ripple.html) blog post.
 
 
 ### Rats show “change-of-mind” behavior
@@ -42,7 +42,7 @@ However, I observed something unexpected that sent me in a new direction: when f
 
 This is something other projects in the lab also observe but the frequency in this task is way higher -- up to 20% of attempts have changes of mind in some rats. There are multiple reasons why my rats do this more than others: first of all, my rats are good students who take things seriously/. Secondly, I use a very large maze scale where the outer arms are 1m rather than the shorter 50cm ones typically used in the lab [W maze](https://rnel.rice.edu/pubs/Jadhav%20et%20al_2012_Awake%20Hippocampal%20Sharp-Wave%20Ripples%20Support%20Spatial%20Memory.pdf). This large maze set up creates a larger cost for wrong choices, potentially forcing the rats really think hard about each choice. Finally, rats are given sufficient time to complete a set number of trials rather than a set duration to complete as many trials as possible. This allows them to take the time deliberating each choice if they need to.
 
-### “change-of-mind” behavior is generally corrective
+### “Change-of-mind” behavior is generally corrective
 This project is not the main focus of my PhD work, and it started as a small data exploration during a holiday break with no expectations. One of the first things I was curious about are whether the rats were better off keeping their initial choice or changing their mind. It turns out across all rats and all sessions, the choice after a change of mind has on average better outcome. 
 
 Each day, the rats ran 4-6 sessions of 30-60 min each, with naps in a separate area in between.
