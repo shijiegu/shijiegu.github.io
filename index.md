@@ -13,7 +13,7 @@ header:
     - label: "Soundcloud"
       url: "https://soundcloud.com/lfpband"
     
-  caption: "image by Bob Hsiang"
+  caption: "The view in the atrium 5F Sandler Neuroscience Building"
 intro:
   - excerpt: 'I am a PhD student in the Joint Bioengineering program at UC Berkeley and UCSF, advised by Prof. [Loren Frank](https://franklab.ucsf.edu/) (UCSF). I study how the brain extracts relational structures from a vast amount of experiences. During my graduate school, I have also interned at [Basis Research Institute](https://www.basis.ai/) working on graph neural networks. Prior to this, I was fortunate enough to have worked with Prof. [Michale Fee](https://feelaboratory.org/) and [Emily Mackevicius](https://emackev.github.io/) at MIT on songbird learning where I developed an algorithm for [tracking the same neuron](https://www.biorxiv.org/content/10.1101/2023.05.13.540658v2) across days in optical data. Both the work then and now at UCSF center around neuronal sequences and temporal aspect of our daily experiences. While living in San Francisco, breathing in the fog, I often wake up from melodies in my dream. These melodies are made into songs under the Fiasco Florists project.'
 feature_row:
@@ -21,7 +21,7 @@ feature_row:
     alt: "lab"
     title: "Research in Neuroscience."
     excerpt: "Mental simulations in the hippocampus."
-    url: "/jekyll/update/2025/10/18/change.html"
+    url: "/jekyll/update/2025/12/01/researchtable.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/gpfa_scatter2.gif
