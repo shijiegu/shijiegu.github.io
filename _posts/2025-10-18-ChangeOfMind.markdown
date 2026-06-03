@@ -10,12 +10,12 @@ sidebar:
   - title: "This is your brain when you change your mind."
     image: "/assets/images/theta.gif"
     image_alt: "image"
-    text: "Magenta denotes where the rat is and the little line on top shows its head direction. The blue/green/yellow shades show the estimate of the animal location from its hippocampus signal, with brighter color denoting regions of higher confidence of the inference. From The hippocampus encodes counterfactuals and hypotheticals during change-of-mind, Society for Neuroscience 2025. Authors: Shijie Gu, Anna Gillespie, Chenyan Liu, Kenny Kay, Rhino Nevers, Michael Coulter, and Loren Frank."
+    text: "Magenta denotes where the rat is and the little line on top shows its head direction. The blue/green/yellow shades show the estimate of the animal location from its hippocampus signal, with brighter color denoting regions of higher confidence of the inference. From [paper](https://www.biorxiv.org/content/10.64898/2026.05.26.727951v1). Authors: Shijie Gu, Chenyan Liu, Anna Gillespie, Rhino Nevers, Michael Coulter, Kenny Kay and Loren Frank."
     nav: sidebar-change-of-mind
 ---
 > "The “change-of-mind” behavior offers a window into how the brain uses the past, present and future to make decisions."
 
-Last updated: Nov 13, 2025.
+Last updated: Jun 3, 2026.
 
 Have you ever been taking a multiple choice test and gone back to change an answer after more deliberation (e.g., from A to B)? Have you ever picked up an item from the shelf in the grocery store, then put it back right after? My first grad school paper is on this topic - a change of mind. What happens in your brain when you have such a change of mind? Is switching your choice from A to B actually helpful in your next exam? Let me give you some answers in this blog!
 
@@ -55,7 +55,7 @@ From the plot we see that the final choice is better on average. All these effor
 
 
 ### Remote representations in the hippocampus follow stopping
-The hippocampus is a brain structure that is very important for memory formation and retrieval; it is also a brain structure critical for maintaining a so-called [“GPS” signal](https://www.nobelprize.org/prizes/medicine/2014/press-release/) — a sense of where you are physically in a space. Recently, evidence has suggested that the hippocampus may also play a role linking the hippocampus to planning into the future (see [here](https://www.nature.com/articles/nature12112), and [here](https://www.cell.com/cell/fulltext/S0092-8674(20)30061-1)). 
+The hippocampus is a brain structure that is very important for memory formation and retrieval; it is also a brain structure critical for maintaining a so-called [“GPS” signal](https://www.nobelprize.org/prizes/medicine/2014/press-release/) — a sense of where you are physically in a space. Recently, evidence has suggested that the hippocampus may also play a role linking the hippocampus to counterfactual thinking, for example planning into the future (see [here](https://www.nature.com/articles/nature12112), and [here](https://www.cell.com/cell/fulltext/S0092-8674(20)30061-1)). 
 
 In neuroscience terms, the hippocampus has been linked to predictive coding and mental simulation. In simple terms, the “predictive coding” part says that before an animal does something, you can predict what the animal is about to do next (to some extent) from the hippocampal neural activity; the “mental simulation” part is a mellower version that says before an animal makes a choice, you can read out the few options the animal considered rather than just the specific choice the animal picked. In summary, the field is grappling with how the hippocampus decides to encode where you are now, what you are about to do next, or your past, and how it serves you altogether to help you make smart choices.
 
@@ -84,20 +84,18 @@ There is more to the story. It turns out this counterfactual trajectory is packe
   <figcaption> Legends are the same as in the last plot. </figcaption>
 </figure>
 
-You can see that the hippocampus often represents other arm locations. It turns out that these representations are statistically predictive of where the animal will go next (Mixed logistic regression, fold change 1.9, p < 0.0001). 
+You can see that the hippocampus often represents other arm locations. It turns out that these representations are statistically predictive of where the animal will go next (Mixed logistic regression, fold change 1.96, p < 0.0001). 
 
 ### Remote representations predict improved task performance
 
-Another intriguing finding is that on these trials where the hippocampus have explored other arm options, animals on average make better subsequent choice. The effect size is about 1.4. Meaning given a baseline of getting right at probability of p, with some help of hippocampus exploring remote options, the probability of getting right jumps to be 1.4 * p. For example, given a baseline of getting right at probability of 0.5, with some help of hippocampus exploring remote options, the probability of getting right becomes 0.7.
+Another intriguing finding is that on these trials where the hippocampus have mentally explored the end of the current arm the rat is actively walking away from or other arm options, animals on average make better subsequent choice. The effect size is about 1.5. Meaning given a baseline of getting right at probability of p, with some help of hippocampus exploring the counterfactuals, the probability of getting right jumps to be 1.5 * p. For example, given a baseline of getting right at probability of 0.5, with some help of hippocampus exploring remote options, the probability of getting right becomes 0.75.
 
 <figure style="width: 600px" class="align-middle">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/change_correct.jpg" alt="">
-  <figcaption> In the left panel, we show the correct rate of choices with or without mental explorations of other locations by the hippocampus. In the right panel, we show statistics. </figcaption>
+  <figcaption> In the left panel, we show the correct rate of subsequent choices with or without mental explorations of the end of the arm the rat is currently occupying by the hippocampus. In the right panel, we show the correct rate of subsequent choices with or without mental explorations of other arms. </figcaption>
 </figure>
 
-Meanwhile, we are exploring if the gaze of the animal is related to this mental exploration of options. Please stay tuned for the final paper!
 
-- Written by Shijie Gu, Oct 19, 2025 and Nov 13, 2025.
-- Figures edited by Loren Frank, Nov 11, 2025.
+- Written by Shijie Gu.
 - Text edited by Vanessa Bender, Nov 13, 2025.
 
