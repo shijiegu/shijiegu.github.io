@@ -17,7 +17,7 @@ header:
 intro:
   - excerpt: 'I am a PhD student in the Joint Bioengineering program at UC Berkeley and UCSF, advised by Prof. [Loren Frank](https://franklab.ucsf.edu/) (UCSF). I study how the brain extracts relational structures from prior experiences. During my graduate school, I have also interned at [Basis Research Institute](https://www.basis.ai/) working on graph neural networks. I am interning in the summer of 2026 at [Blackrock Neurotech](https://blackrockneurotech.com/our-tech/) as a software engineer on real-time systems. Prior to grad school, I was fortunate enough to have worked with Prof. [Michale Fee](https://feelaboratory.org/) and [Emily Mackevicius](https://emackev.github.io/) at MIT on songbird learning where I developed an algorithm for [tracking the same neuron](https://www.biorxiv.org/content/10.1101/2023.05.13.540658v2) across days in optical data. Both the work then and now at UCSF center around neuronal sequences and temporal aspect of our daily experiences. While living in San Francisco, breathing in the fog, I often wake up from melodies in my dream. These melodies are made into songs under the Fiasco Florists project.'
 feature_row:
-  - image_path: /assets/images/theta.gif
+  - image_path: /assets/images/COM_Movie-S3_v2_converted.gif
     alt: "lab"
     title: "Research in Neuroscience."
     excerpt: "Mental simulations in the hippocampus."
