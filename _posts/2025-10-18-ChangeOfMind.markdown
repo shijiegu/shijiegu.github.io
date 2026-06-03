@@ -96,7 +96,7 @@ Another intriguing finding is that on these trials where the hippocampus have me
 </figure>
 
 ### Download the dataset here!
-We have packed the dataset to [DANDI](https://nwb.org/tools/community/dandi/), the NIH BRAIN Initiative data cloud. To facilitate downloading this large dataset, we have packaged a Docker Image that contains all the environmental dependencies to do need-based data streaming. Step-by-step guide for setting it up to load data is [here](https://github.com/shijiegu/Gu2026_docker). Currently 3 out of the 5 rats' data are available for download.
+We have packed the dataset to [DANDI](https://nwb.org/tools/community/dandi/), the NIH BRAIN Initiative data cloud. To facilitate downloading this large dataset, we have packaged a Docker Image that contains all the environmental dependencies to do need-based data streaming. The step-by-step guide for setting it up to load data is [here](https://github.com/shijiegu/Gu2026_docker). Currently 3 out of the 5 rats' data are available for download.
 
 ### The full paper is [here](https://www.biorxiv.org/content/10.64898/2026.05.26.727951v1).
 
