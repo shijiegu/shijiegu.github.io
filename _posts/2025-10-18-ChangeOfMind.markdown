@@ -8,7 +8,7 @@ order: 2
 
 sidebar:
   - title: "This is your brain when you change your mind."
-    image: "/assets/images/theta.gif"
+    image: "/assets/images/COM_Movie-S3_v2_converted.gif"
     image_alt: "image"
     text: "Magenta denotes where the rat is and the little line on top shows its head direction. The blue/green/yellow shades show the estimate of the animal location from its hippocampus signal, with brighter color denoting regions of higher confidence of the inference. From [paper](https://www.biorxiv.org/content/10.64898/2026.05.26.727951v1). Authors: Shijie Gu, Chenyan Liu, Anna Gillespie, Rhino Nevers, Michael Coulter, Kenny Kay and Loren Frank."
     nav: sidebar-change-of-mind
@@ -96,7 +96,7 @@ Another intriguing finding is that on these trials where the hippocampus have me
 </figure>
 
 ### Download the dataset here!
-We have packed the dataset to [DANDI](https://nwb.org/tools/community/dandi/), the NIH BRAIN Initiative data cloud. To facilitate downloading this large dataset, we have packaged a Docker Image that contains all the environmental dependencies to do need-based data streaming. Step-by-step guide for setting it up to load data is [here](https://github.com/shijiegu/Gu2026_docker).
+We have packed the dataset to [DANDI](https://nwb.org/tools/community/dandi/), the NIH BRAIN Initiative data cloud. To facilitate downloading this large dataset, we have packaged a Docker Image that contains all the environmental dependencies to do need-based data streaming. Step-by-step guide for setting it up to load data is [here](https://github.com/shijiegu/Gu2026_docker). Currently 3 out of the 5 rats' data are available for download.
 
 ### The full paper is [here](https://www.biorxiv.org/content/10.64898/2026.05.26.727951v1).
 
