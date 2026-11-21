@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /jekyll/update/2025/10/31/candy.html
+permalink: /jekyll/update/2026/10/31/candy.html
 title:  "Halloween project"
 date:   2026-10-31
 categories: misc
@@ -73,7 +73,6 @@ ESP32 #2 joins ESP32 #1's Wi-Fi network and requests http://192.168.4.1/data eve
 ###### ESP32 #1: TF-Luna lidar
 
 TF-Luna
-<div class="notice" markdown="1">
 
 | pin	| Connects to |
 | --- | --- |
@@ -81,9 +80,9 @@ TF-Luna
 | 2 RXD | GPIO17 |
 | 3 TXD | GPIO16 |
 | 4 GND | GND    |
+
 5 and 6	Leave unconnected
 
-</div>
 
 DFPlayer Pro (DFR0768)
 
@@ -100,6 +99,7 @@ The jack then goes to your Bluetooth transmitter or powered speaker.
 
 ###### ESP32 #2: motors and light
 Stepper TB6600 x 2
+
 | pin	| Connects to |
 | :--- | :---: |
 | TB6600 #1 PUL+ | GPIO27 |
@@ -107,10 +107,12 @@ Stepper TB6600 x 2
 | TB6600 #2 PUL+ | GPIO26 |
 | TB6600 #2 DIR+ | GPIO33 |
 | TB6600 #1 and #2 PUL- and DIR- | GND |
+
 VCC / GND: one 24 V adapter each.
 Coils: A+ and A- to one motor coil, B+ and B- to the other.
 
 Light module
+
 | Light module PWM / TRIG | GPIO18 |
 | the light module's signal GND | GND |
 
