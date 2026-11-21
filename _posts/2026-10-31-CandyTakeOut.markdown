@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /jekyll/update/2026/10/31/candy.html
-title:  "Halloween project"
+title:  "Halloween project: Kitkat from the sky"
 date:   2026-10-31
 categories: misc
 order: 2
