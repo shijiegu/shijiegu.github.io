@@ -42,11 +42,12 @@ const bool DOWN_IS_HIGH_1 = true;
 const bool DOWN_IS_HIGH_2 = true;
 
 // ---------- Ghost 2: sensor-triggered drop ----------
-const float    DROP2_MM = 1500.0;          // 1 m
+const float    DROP2_MM = 1000.0;          // 1 m
 const uint32_t HOLD2_MS = 5000;            // pause at the bottom before rewinding
+const uint32_t REARM2_MS = 2000;           // after it is back up, ignore triggers for this long
 
 // ---------- Ghost 1: random down-up-down-up-rest routine ----------
-const float    M1_MAX_DEPTH_MM   = 1000.0;  // never go lower than this below the top
+const float    M1_MAX_DEPTH_MM   = 700.0;  // never go lower than this below the top
 const float    M1_DOWN_MIN_MM    = 150.0;  // each "down" move is a random distance in this range
 const float    M1_DOWN_MAX_MM    = 450.0;
 const float    M1_UP_PARTIAL_MIN = 0.30;   // first "up" climbs back 30-70% of the current depth
@@ -147,9 +148,13 @@ uint32_t rndMs(uint32_t lo, uint32_t hi) { return lo + (uint32_t)random(0, (long
 enum Ghost2State { G2_IDLE, G2_DROPPING, G2_HOLD, G2_RAISING };
 Ghost2State g2State = G2_IDLE;
 uint32_t    g2HoldUntil = 0;
+uint32_t    g2LockUntil = 0;
 
 void startDrop() {
-  if (g2State != G2_IDLE || motorBusy(1)) return;
+  if (g2State != G2_IDLE || motorBusy(1) || (int32_t)(millis() - g2LockUntil) < 0) {
+    Serial.println("Trigger ignored: ghost 2 is busy");
+    return;
+  }
   Serial.printf("Ghost 2 dropping (%ld steps)\n", DROP2_STEPS);
   startMove(1, DROP2_STEPS, true, MAX_SPS);
   g2State = G2_DROPPING;
@@ -176,6 +181,7 @@ void updateGhost2() {
     case G2_RAISING:
       if (!motorBusy(1)) {
         g2State = G2_IDLE;
+        g2LockUntil = millis() + REARM2_MS;
         Serial.println("Ghost 2 back up");
       }
       break;
