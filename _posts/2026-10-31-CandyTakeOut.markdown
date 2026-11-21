@@ -37,12 +37,11 @@ Design and code.
 6. (sound player) DFPlayer PRO DFR0768 - MP3 player
 7. 3.5mm Female Stereo Audio Jack Breakout Board with Bent Pin
 8. Fishing line
-(Optionally)
-9. Fog lights. I used Nilight 4 Inch LED Light Pods Amber Spot Beam Driving Fog Lights.
+9. (Optional) Fog lights. I used Nilight 4 Inch LED Light Pods Amber Spot Beam Driving Fog Lights.
 
 ### 3D-printing spools
 ##### Open face pancakes rather than a spool
-It was very difficult to buy spools of the exact size and so I 3D-printed it myself. Because of the unique hollow out structure of the spool, reinforcing structures must be added in the groove if the CAD design is one single spool object. You can skip adding reinforcing structures if you create two open face pancakes and screw them together to form a spool. This creates very clean product very quickly. I used Claude to generate the spool design. It programmatically draws the object so you can edit the code directly to change parameters. The picture shows the final product. Here are the CAD objects.
+It was very difficult to buy spools of the exact size and so I 3D-printed it myself. Because of the unique hollowed-out structure of the spool, reinforcing structures must be added in the groove if the CAD design is one single spool object. You can skip adding reinforcing structures if you create two open face pancakes and screw them together to form a spool. This creates very clean product very quickly. I used Claude to generate the spool design. It programmatically draws the object so you can edit the code directly to change parameters. The picture shows the final product. Here are the CAD objects.
 
 
 <figure style="width: 600px" class="align-middle">
@@ -63,7 +62,7 @@ The setup is made up of 2 processors.
 
 ##### ESP32 #1:  distance sensor + wifi + sound
 ##### ESP32 #2:  control motor (optionally lights) 
-With a phone connected to http://192.168.4.1/, we can (1) read out the distance from the sensor and (2) use the up and down button to control the takeout box on the first motor. The 2nd motor is connected to a ghost which just moves up and down irregularly. When the beam cross is cut to less than 1 meter then, the takeout box will drop for 1.5 meter, pause for 5 seconds before rising up again.
+With a phone joined on the wifi from the ESP1, and connected to http://192.168.4.1/, we can (1) read out the distance from the sensor and (2) use the "up" and "down" button to control the takeout box on the first motor. The 2nd motor is connected to a ghost which just moves up and down irregularly. When the beam crossing is cut to less than 1 meter then, the takeout box will drop for 1.5 meter, pause for 5 seconds before rising up again.
 
 ##### Data flow
 ESP32 #1 runs a simple web server on port 80 with three routes: / (the web page), /data (a small JSON status), and /jog (the jog buttons).
