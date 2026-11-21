@@ -21,6 +21,8 @@ My neighborhood does this Halloween block party. I am participating first time t
   <source src="/assets/videos/demo.mp4" type="video/mp4">
 </video>
 
+Above is a reduction of the setup on my desk. One ghost moves up and down irregularly. The other motor holding a Chinese takeout box is triggerd by a beam break. The takeout box holds a few KitKats and pauses at the bottom for 5 seconds before rising again.
+
 ### Table of Contents
 List of Materials.
 3D-printing spools.
@@ -31,7 +33,7 @@ Design and code.
 2. (sensor) tf-luna lidar
 3. (motor) NMEA-17 x 2
 4. (motor mount) L-bracket
-5. (motor stepper) TB6600 4A 9-42V
+5. (motor stepper) TB6600 4A 9-42V x 2
 6. (sound player) DFPlayer PRO DFR0768 - MP3 player
 7. 3.5mm Female Stereo Audio Jack Breakout Board with Bent Pin
 8. Fishing line
