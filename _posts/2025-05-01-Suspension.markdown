@@ -14,7 +14,7 @@ One of the challenges in tethered recording in a large environment is the overhe
 
 The system should be able to move freely in two axes, x and y, with little effort needed from the animal. We also want the system to be very robust to all kinds of motions the animal do so that experiments can be done without any human intervention.
 
-The motion on the x axis is due to the steel wire that are mounted on the walls. You can further grease up the wire or make the wire taut for a more smooth run. The small area of contact between the wire and the wheel makes the motion smooth. Other solutions like the curtain railing do not work well, because the force animals apply do not align well with the direction in which curtains are moved, unlike our hand motion in unveiling a curtain. The wire is also particularly nice in that the little bit of flexibility in wire can absort any sudden jitter and translate it to smooth motion.
+The motion on the x axis is due to the steel wire that are mounted on the walls. You can further grease up the wire or make the wire taut for a more smooth run. The small area of contact between the wire and the wheel makes the motion smooth. Other solutions like the curtain railing do not work well, because the force animals apply does not align well with the direction in which curtains are moved, unlike our hand motion in unveiling a curtain. The wire is also particularly nice in that the little bit of flexibility in wire can absorb any sudden jitter and translate it to smooth motion.
 
 <figure style="width: 800px" class="align-middle">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/suspension_overview.jpg"
