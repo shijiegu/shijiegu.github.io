@@ -23,7 +23,7 @@ The motion on the x axis is due to the steel wire that are mounted on the walls.
   <figcaption> Overview of the two axes and the suspension system. </figcaption>
 </figure>
 
-The motion on the y axis is due to the use of carbon fiber. We want similar small contact surface between the wheel and track. By gluing (we used epoxy) 2 pieces of carbon fiber to form a T, the verticle piece serves as the track while the bottom piece holds on the veritical piece in place. Due to the heavy weight of the commutator on the wheel, the wheel is not 100% straight in the groove. I extended the 1 T-junction design by Prof. Abhilasha Joshi and other members of the Frank Lab to use 2 T-junctions to hold the wheel in place. I do not know why it took me and the technician I worked with about a month to arrive at the full solution of the suspension system, but I think we achieved a very robust solution.
+The motion on the y axis is due to the use of carbon fiber. We want similar small contact surface between the wheel and track. By gluing (we used epoxy) 2 pieces of carbon fiber strips to form a T junction, the verticle piece serves as the track while the bottom piece holds on the veritical piece in place. Due to the heavy weight of the commutator on the wheel, the wheel is not 100% straight in the groove -- it tilts. I extended the 1 T-junction design to use 2 T-junctions to hold the wheel in place. I do not know why it took me and the technician I worked with about a month to arrive at the full solution of the suspension system, but I think we achieved a very robust solution.
 
 <figure style="width: 800px" class="align-middle">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/suspension_system.jpg"
@@ -31,3 +31,5 @@ The motion on the y axis is due to the use of carbon fiber. We want similar smal
   style="width: 110%; height: auto;" >
   <figcaption> How to make the suspension system along the y axis. </figcaption>
 </figure>
+
+The original T junction carbon fiber strips is due to [Prof. Abhilasha Joshi](https://www.neuroact.in/) and other members of the Frank Lab.
