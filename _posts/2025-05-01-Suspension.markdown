@@ -10,7 +10,7 @@ order: 3
 May 1, 2025
 
 ### The suspension system
-One of the challenges in tethered recording in a large environment is the overhead system (the suspension system) that can hover over the animal as it moves around. Once we started doing optogenetics, the heavy optical fiber commutator motivated us to design a new suspension system.
+One of the challenges in tethered recording in a large environment is the overhead system (the suspension system) that carries cable commutators and can hover over the animal as it moves around. Once we started doing optogenetics, the heavy optical fiber commutator motivated us to design a new suspension system.
 
 The system should be able to move freely in two axes, x and y, with little effort needed from the animal. We also want the system to be very robust to all kinds of motions the animal do so that experiments can be done without any human intervention.
 
@@ -20,10 +20,10 @@ The motion on the x axis is due to the steel wire that are mounted on the walls.
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/suspension_overview.jpg"
   alt=""
   style="width: 110%; height: auto;" >
-  <figcaption> Overview of the two axes and the suspension system. </figcaption>
+  <figcaption> Overview of the two axes and the suspension system. In the left panel, we show the maze. In the right panel, we show the optics commutator and ephys commutator bound together dangling from a wheel runnning on the suspension system on y axis. The zoom-in view shows the x axis. </figcaption>
 </figure>
 
-The motion on the y axis is due to the use of carbon fiber. We want similar small contact surface between the wheel and track. By gluing (we used epoxy) 2 pieces of carbon fiber strips to form a T junction, the verticle piece serves as the track while the bottom piece holds on the veritical piece in place. Due to the heavy weight of the commutator on the wheel, the wheel is not 100% straight in the groove -- it tilts. I extended the 1 T-junction design to use 2 T-junctions to hold the wheel in place. I do not know why it took me and the technician I worked with about a month to arrive at the full solution of the suspension system, but I think we achieved a very robust solution.
+The motion on the y axis is due to the use of carbon fiber. We want similar small contact surface between the wheel and the track. By gluing (we used epoxy) 2 pieces of carbon fiber strips to form a T junction, the verticle piece serves as the track while the bottom piece holds on the veritical piece in place. Due to the heavy weight of the commutator on the wheel, the wheel is not 100% straight in the groove -- it tilts. I extended the 1 T-junction design to use 2 T-junctions to hold the wheel in place. I do not know why it took me and the technician I worked with about a month to arrive at the full solution of the suspension system, but I think we achieved a very robust solution.
 
 <figure style="width: 800px" class="align-middle">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/suspension_system.jpg"
